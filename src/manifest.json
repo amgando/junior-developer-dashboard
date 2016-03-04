@@ -1,0 +1,9 @@
+{
+  "name": "Junior Developer Dashboard",
+  "version": "0.0.1",
+  "manifest_version": 2,
+  "description": "a console for junior web developers (started with extensionizr.com)",
+  "chrome_url_overrides": {
+    "newtab": "override.html"
+  }
+}
